@@ -1,0 +1,9 @@
+
+[functions.process-meeting]
+verify_jwt = true
+
+[functions.resolve-clarification]
+verify_jwt = true
+
+[functions.followup-reminders]
+verify_jwt = false
